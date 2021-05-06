@@ -97,3 +97,6 @@ When $\lambda = 2$, then,
 
 ![6](https://user-images.githubusercontent.com/17807597/117304984-4b461900-aeb9-11eb-8220-61681459051a.png)
 
+When $\lambda = 4$, then,
+
+![7](https://user-images.githubusercontent.com/17807597/117305155-729ce600-aeb9-11eb-9b63-68d58a79368d.png)
